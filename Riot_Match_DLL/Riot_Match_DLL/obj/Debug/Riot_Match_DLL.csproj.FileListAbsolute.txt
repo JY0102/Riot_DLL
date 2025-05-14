@@ -1,0 +1,9 @@
+C:\Users\bit\Desktop\Riot_Match_DLL\Riot_Match_DLL\obj\Debug\Riot_Match_DLL.csproj.AssemblyReference.cache
+C:\Users\bit\Desktop\Riot_Match_DLL\Riot_Match_DLL\obj\Debug\Riot_Match_DLL.csproj.CoreCompileInputs.cache
+C:\Users\bit\Desktop\Riot_Match_DLL\Riot_Match_DLL\bin\Debug\Riot_Match_DLL.dll
+C:\Users\bit\Desktop\Riot_Match_DLL\Riot_Match_DLL\bin\Debug\Riot_Match_DLL.pdb
+C:\Users\bit\Desktop\Riot_Match_DLL\Riot_Match_DLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bit\Desktop\Riot_Match_DLL\Riot_Match_DLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bit\Desktop\Riot_Match_DLL\Riot_Match_DLL\obj\Debug\Riot_Mat.37C20BFA.Up2Date
+C:\Users\bit\Desktop\Riot_Match_DLL\Riot_Match_DLL\obj\Debug\Riot_Match_DLL.dll
+C:\Users\bit\Desktop\Riot_Match_DLL\Riot_Match_DLL\obj\Debug\Riot_Match_DLL.pdb
